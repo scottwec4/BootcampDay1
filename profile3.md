@@ -1,1 +1,15 @@
 test
+*Sushi
+*Ramen
+*Tempura
+*Udon
+*Yakitori
+*Okonomiyaki
+*Takoyaki
+*Soba
+*Gyoza
+*Shabu-shabu
+*Onigiri
+*Karaage
+*Miso soup
+[GitHub](https://github.com)
